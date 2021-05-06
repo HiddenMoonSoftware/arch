@@ -1,0 +1,1 @@
+/home/mooney/.local/share/omf/themes/fox/fish_prompt.fish
